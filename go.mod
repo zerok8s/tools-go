@@ -1,4 +1,4 @@
-module github.com/zerok8s/tools
+module github.com/zerok8s/tools-go
 
 go 1.20
 
